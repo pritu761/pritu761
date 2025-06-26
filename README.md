@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **WEB DEVELOPMENT**
  
- 🌱 I’m currently learning **JAVASCRIPT**
+ 🌱 I’m currently learning **REACT**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here]**
+💬 Ask me about **Node.js, React, Firebase... or anything **
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 

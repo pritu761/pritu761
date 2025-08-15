@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="pkanth761@gmail.com">
+  <a href="https://mail.google.com/mail/u/1/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.google.com" target="_blank">
+  <a href="https://leetcode.com/u/Yxv5pTUaqH/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/pritu761" target="_blank">

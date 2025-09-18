@@ -76,15 +76,34 @@ const pritam = {
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pritu761&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Pritam's github stats" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritu761&layout=compact&hide_border=true&title_color=00b4d8&text_color=00d9ff&bg_color=0d1117" />
+### 📈 GitHub Stats
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritu761&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Pritam's github stats" />
+
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pritu761&layout=compact&hide_border=true&title_color=00b4d8&text_color=00d9ff&bg_color=0d1117&cache_seconds=1800&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu761&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00d9ff&currStreakLabel=00d9ff" />
+
+### 🔥 GitHub Streaks
+<img width="90%" src="https://streak-stats.demolab.com/?user=pritu761&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00d9ff&currStreakLabel=00d9ff" />
+
+</div>
+
+<div align="center">
+
+### 📊 Detailed Stats
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritu761&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+### ⏰ Coding Time & Languages
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritu761&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pritu761&theme=tokyonight&utcOffset=5.5" />
+
 </div>
 
 ---
@@ -136,7 +155,15 @@ while (alive) {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake.svg" />
+  
+  ![Snake animation](https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake.svg)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </div>
 
 ---
@@ -190,6 +217,13 @@ while (alive) {
 ---
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Footer Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>v align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
 

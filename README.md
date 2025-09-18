@@ -128,8 +128,36 @@ const pritam = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pritu761&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/pritu761)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pritu761&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/pritu761)
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project One
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pritu761&repo=pritu761&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/pritu761/pritu761)
+
+**Tech Stack:** `React` `Node.js` `MongoDB`  
+⭐ Amazing web application with modern features
+
+</td>
+<td width="50%">
+
+### 💻 Project Two
+[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pritu761&repo=pritu761&theme=tokyonight&hide_border=true)](https://github.com/pritu761)
+
+**Tech Stack:** `JavaScript` `Express` `CSS3`  
+🎯 Innovative solution for real-world problems
+
+</td>
+</tr>
+</table>
+
+### 🔗 More Projects
+<div align="center">
+  
+[![All Repositories](https://img.shields.io/badge/-🔍%20View%20All%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pritu761?tab=repositories)
+[![Portfolio Website](https://img.shields.io/badge/-🌐%20Portfolio%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/pritu761)
+
+</div>
 
 </div>
 
@@ -217,13 +245,6 @@ while (alive) {
 ---
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
-
-</div>
-
-<!-- Footer Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>v align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
 

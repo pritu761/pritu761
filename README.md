@@ -89,7 +89,8 @@ const pritam = {
 ### 🔥 GitHub Streaks
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=pritu761&theme=dark&hide_border=true&stroke=00D9FF&ring=00B4D8&fire=00D9FF&currStreakNum=00D9FF&currStreakLabel=FFFFFF&sideNums=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" alt="GitHub Streak Stats" />
+![](https://nirzak-streak-stats.vercel.app/?user=pritu761&theme=radical&hide_border=false)
+
 
 </div>
 
@@ -259,12 +260,6 @@ while (alive) {
 </div>
 
 <!-- Footer Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
-
-</div>
-
-<!-- Footer Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+</div>

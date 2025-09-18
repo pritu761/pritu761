@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every midnight UTC
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
   workflow_dispatch:       # Allows manual run from Actions tab
 
 jobs:
@@ -17,6 +17,7 @@ jobs:
         with:
           github_user_name: pritu761
           outputs: dist/snake.svg
+          palette: "github-dark rainbow"   # 🌈 rainbow snake colors
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -27,6 +28,8 @@ jobs:
       - name: Deploy to GitHub Pages (output branch)
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}   # <--- use your PAT here
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}   # <-- Your PAT here
           publish_dir: dist
           publish_branch: output
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com

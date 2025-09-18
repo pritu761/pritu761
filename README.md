@@ -87,7 +87,11 @@ const pritam = {
 <div align="center">
 
 ### 🔥 GitHub Streaks
-<img width="90%" src="https://streak-stats.demolab.com/?user=pritu761&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00d9ff&currStreakLabel=00d9ff" />
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=pritu761&theme=dark&hide_border=true&stroke=00D9FF&ring=00B4D8&fire=00D9FF&currStreakNum=00D9FF&currStreakLabel=FFFFFF&sideNums=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" alt="GitHub Streak Stats" />
+
+</div>
 
 </div>
 
@@ -142,7 +146,13 @@ const pritam = {
 <td width="50%">
 
 ### 💻 Project Two
-[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pritu761&repo=pritu761&theme=tokyonight&hide_border=true)](https://github.com/pritu761)
+<div align="center">
+  
+<a href="https://github.com/pritu761">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pritu761&repo=pritu761&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Project Repository" />
+</a>
+
+</div>
 
 **Tech Stack:** `JavaScript` `Express` `CSS3`  
 🎯 Innovative solution for real-world problems
@@ -183,8 +193,6 @@ while (alive) {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake.svg)
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritu761/pritu761/output/github-contribution-grid-snake-dark.svg">
@@ -244,6 +252,14 @@ while (alive) {
 
 ---
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Footer Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻;Keep+coding!+Keep+growing!+🌟)](https://git.io/typing-svg)

@@ -2,15 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Run every day at midnight UTC
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 0 * * *"   # Runs every midnight UTC
+  workflow_dispatch:       # Allows manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -19,7 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/snake.svg
@@ -30,4 +30,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: output
-

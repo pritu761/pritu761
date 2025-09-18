@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # Runs every midnight UTC
-  workflow_dispatch:       # Allows manual trigger from Actions tab
+  workflow_dispatch:       # Allows manual run from Actions tab
 
 jobs:
   build:
@@ -27,6 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages (output branch)
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}   # <--- use your PAT here
           publish_dir: dist
           publish_branch: output

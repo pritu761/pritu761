@@ -69,7 +69,7 @@ const pritam = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pritu761/pritu761/main/trophy.svg" />
+  <img src="https://iim-trophy.pritam-trophy.workers.dev/?username=pritu761&no-frame=true&no-bg=true&columns=7" />
 </div>
 
 <br/>

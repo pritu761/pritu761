@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate trophy image
-        uses: ryo-ma/github-profile-trophy@main
+        uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: pritu761
           theme: tokyonight

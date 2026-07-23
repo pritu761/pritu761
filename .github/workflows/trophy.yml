@@ -9,16 +9,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate trophy image
-        uses: ryo-ma/github-profile-trophy@v1.0
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: pritu761
+          output_path: trophy.svg
           theme: tokyonight
           no-frame: true
           no-bg: true
           margin-w: 4
           column: 7
-          output: trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5

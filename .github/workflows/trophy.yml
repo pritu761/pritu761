@@ -1,0 +1,27 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight UTC
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate trophy image
+        uses: ryo-ma/github-profile-trophy@main
+        with:
+          username: pritu761
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          margin-w: 4
+          column: 7
+          output: trophy.svg
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update trophy image"
+          file_pattern: trophy.svg
